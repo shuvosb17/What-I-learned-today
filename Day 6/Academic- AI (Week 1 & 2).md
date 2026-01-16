@@ -357,14 +357,6 @@ If this is strong → AI becomes **obvious**
 
 
 
-Awesome slide choice 🔥 — this is **one of the most important foundations of AI**.
-I’ll explain it **slowly, deeply, and connected to real life**, exactly as per your project instructions.
-
-I’ll cover **Topic-2: Intelligent Agents** in a **clean flow**, so you can *visualize AI thinking* 🧠🤖.
-
-> 📘 Source: Slide content from *CSE 411: Artificial Intelligence – Topic 2 (Intelligent Agents)* 
-
----
 
 # 🧠 Topic 2: Intelligent Agents — Full Foundation Explanation
 
